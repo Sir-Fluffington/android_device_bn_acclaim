@@ -1,0 +1,12 @@
+[
+  {
+    "remote": "github",
+    "repository": "cyanogenmod/android_device_bn_omap4-common",
+    "target_path": "device/bn/omap4-common"
+  },
+  {
+    "remote": "github",
+    "repository": "cyanogenmod/android_kernel_bn_acclaim",
+    "target_path": "kernel/bn/acclaim"
+  }
+]
